@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0620-not-boring-movies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
