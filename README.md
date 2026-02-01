@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
