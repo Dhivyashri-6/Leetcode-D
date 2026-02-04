@@ -20,6 +20,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
