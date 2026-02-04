@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0053-maximum-subarray) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Trie
 |  |
 | ------- |
