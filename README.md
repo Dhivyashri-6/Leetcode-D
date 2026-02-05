@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0012-integer-to-roman) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
