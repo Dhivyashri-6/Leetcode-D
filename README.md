@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
