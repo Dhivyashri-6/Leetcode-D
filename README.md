@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
