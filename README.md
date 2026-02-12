@@ -98,4 +98,20 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
