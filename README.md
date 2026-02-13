@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0485-max-consecutive-ones) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
