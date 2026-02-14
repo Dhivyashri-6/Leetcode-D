@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0242-valid-anagram) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Trie
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
