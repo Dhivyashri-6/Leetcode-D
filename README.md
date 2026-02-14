@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0094-binary-tree-inorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,10 +109,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -120,5 +123,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
