@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0540-single-element-in-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -94,6 +95,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
