@@ -34,6 +34,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dhivyashri-6/Leetcode-D/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
